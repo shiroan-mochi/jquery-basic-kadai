@@ -1,5 +1,5 @@
 $(function(){
-  $('#target').on('click',function(){
+  $('#target').click(function(){
     $('#target').addClass('heading');
   });
 });
